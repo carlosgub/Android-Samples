@@ -5,4 +5,6 @@ Ejemplos de algunas implementaciones de Android que estare revisando a lo largo 
 
 # References
 
+Fragments
+- https://www.youtube.com/watch?v=RS1IACnZLy4
 - https://medium.com/@chris.ribetti/android-fragmentfactory-75823af015fd
