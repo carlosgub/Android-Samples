@@ -1,4 +1,4 @@
-# Android-Samples
+# Android-Samples (Necesita Android 4.1 para ver el preview de Compose)
 Ejemplos de algunas implementaciones de Android que estare revisando a lo largo del tiempo
 
 - Fragment Factory (View Pager 1 y FragmentContainerView)
