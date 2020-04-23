@@ -3,6 +3,8 @@ Ejemplos de algunas implementaciones de Android que estare revisando a lo largo 
 
 - Fragment Factory (View Pager y FragmentContainerView)
 
+Android programming with fragments requires the developer to include an empty constructor in the event the operating system needs to reconstruct the fragment on its own. The OS will not use any constructors with arguments when re-instantiating, and so any arguments should be included by passing them in with setArguments(). This will be fixed with Fragment Factory :). (check the references about this)
+
 # References
 
 Fragments
